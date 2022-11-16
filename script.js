@@ -1,5 +1,4 @@
 function handleKKeyPress(ev) {
-    console.log(ev)
 }
 
 
