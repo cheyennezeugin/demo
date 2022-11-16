@@ -1,0 +1,12 @@
+body {
+    background-color: midnightblue;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+svg {
+    background-color: white;
+    width: min(700vh, 100vw);
+    height: min(70vh, 100vw);
+}
